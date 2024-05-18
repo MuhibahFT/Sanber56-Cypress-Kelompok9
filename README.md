@@ -2,7 +2,7 @@
 Nama anggota kelompok aktif:
 1. Aniska Arrifani R
 2. Muhibah Fata Tika
-3. 
+3. Gilda M Hutabarat
 4. 
 5.
 
