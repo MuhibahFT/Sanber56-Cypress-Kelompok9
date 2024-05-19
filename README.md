@@ -7,8 +7,8 @@ Nama anggota kelompok aktif:
 5. Arif Wibowo Eris Putra
 
 Pembagian tugas
-1. Create an account :
-2. Login :
+1. Create an account : 
+2. Login : Muhammad Ramdhani
 3. My account > edit account information & edit addres :
 4. choose productsand update shopping chart : Aniska Arrifani R
 5. proceed to checkout : Arif Wibowo Eris Putra
