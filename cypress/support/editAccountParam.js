@@ -3,10 +3,10 @@ class editAccountParam{
     newEmail='#lastname';
     password = '#password';
 
-    constructor() {
-        this.email = '';
-        this.newEmail = '';
-        this.password = '';
+    constructor(email,newEmail,password) {
+        this.email = email;
+        this.newEmail = newEmail;
+        this.password = password;
       }
     
       setEmail(email) {
