@@ -23,3 +23,17 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+Cypress.Commands.add('tryLogin', (email, password) => {
+    cy.visit('https://magento.softwaretestingboard.com')
+    cy.get('a')
+    .contains('Sign In')
+    .click()
+    .url()
+
+    cy.get('#email').type(email)
+    cy.get('#pass').type(password)
+    cy.wait(5000);
+    cy.get('#send2')
+    .click()        
+    .url();
+  })
