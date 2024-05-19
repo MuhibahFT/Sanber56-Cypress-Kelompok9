@@ -9,6 +9,6 @@ Nama anggota kelompok aktif:
 Pembagian tugas
 1. Create an account :
 2. Login :
-3. My account > edit account information & edit addres :
+3. My account > edit account information & edit addres : Muhibah Fata Tika
 4. choose productsand update shopping chart : 
 5. proceed to checkout :
