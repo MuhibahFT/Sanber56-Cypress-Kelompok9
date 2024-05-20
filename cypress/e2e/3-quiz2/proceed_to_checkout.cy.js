@@ -1,3 +1,9 @@
+//QA Batch 56
+//Arif Wibowo Eris Putra
+//Kelompok 9
+
+
+
 describe('checkout', () => {
     it('Positif.Proceed to Checkout 1', () => {
       cy.visit('https://magento.softwaretestingboard.com/');
