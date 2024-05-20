@@ -8,7 +8,7 @@ Nama anggota kelompok aktif:
 
 Pembagian tugas
 
-1. Create an account : 
+1. Create an account : Gilda M Hutabarat
 2. Login : Muhammad Ramdhani
 3. My account > edit account information & edit addres : Muhibah Fata Tika
 4. choose productsand update shopping chart : Aniska Arrifani R

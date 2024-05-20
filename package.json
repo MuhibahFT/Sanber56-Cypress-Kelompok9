@@ -1,5 +1,18 @@
 {
   "devDependencies": {
     "cypress": "^13.9.0"
-  }
+  },
+  "name": "sanber56-cypress-kelompok9",
+  "description": "Nama anggota kelompok aktif:\r 1. Aniska Arrifani R\r 2. Muhibah Fata Tika\r 3. Gilda M Hutabarat\r 4. Muhammad Ramdhani\r 5. Arif Wibowo Eris Putra",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/MuhibahFT/Sanber56-Cypress-Kelompok9.git)"
+  },
+  "author": "",
+  "license": "ISC"
 }
