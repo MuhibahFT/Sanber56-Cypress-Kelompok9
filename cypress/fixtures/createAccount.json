@@ -1,0 +1,16 @@
+[
+    {
+      "firstNm": "Maxim",
+      "lastNm": "Will",
+      "email": "maxim.will4@email.com",
+      "pass" : "Maxwill123!",
+      "confPass": "Maxwill123!"
+   },
+   {
+    "firstNm": "William",
+    "lastNm": "Ben",
+    "email": "ben.will3@email.com",
+    "pass" : "Benny123!",
+    "confPass": "Benny123!"
+   }
+ ]

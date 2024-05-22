@@ -37,3 +37,14 @@ Cypress.Commands.add('tryLogin', (email, password) => {
     .click()        
     .url();
   })
+
+Cypress.Commands.add('createAccount', (firstNm, lastNm, email, pass, confPass)=>{
+  cy.visit('https://magento.softwaretestingboard.com/customer/account/create/')
+  cy.get('#firstname').clear().type(firstNm)
+  cy.get('#lastname').clear().type(lastNm)
+  cy.get('#email_address').clear().type(email)
+  cy.get('#password').clear().type(pass)
+  cy.get('#password-confirmation').clear().type(confPass)
+  cy.get('#form-validate > .actions-toolbar > div.primary > .action').click()
+  cy.get('.message-success > div').should('contain.text','Thank you for registering with Main Website Store.')
+})
